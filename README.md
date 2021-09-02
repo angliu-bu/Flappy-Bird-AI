@@ -3,4 +3,6 @@ Implement the Flappy Bird game using Python and pygame. Utilize NeuroEvolution o
 
 Special thanks to the instructions from "Tech With Tim"
 
+Ang Liu and Jilin Wang. 
+
 ![example](Best_result.gif)
